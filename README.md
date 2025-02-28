@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Olá pessoal ai da terra, aqui quem fala é o Charles</h1>
+<h1 align="center">Greetings to everyone on Earth. This is Charles speaking.</h1>
 
 ###
 
